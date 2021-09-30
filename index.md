@@ -1,6 +1,6 @@
 # dockerfile
 | 关键字| 描述 | example    |
-| :--- | :--------------------------- | :--- |
+| :--- | :---| :--- |
 | FROM | 从一个基础镜像构建我们的镜像 | FROM ubuntu:16.04 |
 | MINTAINER | 镜像拥有者信息 | bigseacoming “bigseacoming@gmail.com” |
 | RUN | 运行一个指令 | As-is.  /bin/sh -c your command |
